@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+}
+
+html{
+    background-color: #ff1a1f;
+    height: 200%;
+
+}
+
+body{
+    box-sizing: border-box;
+    padding-top: 65px;
+}
+
+h1,h2,h3,p{
+    margin-bottom: 16px;
+}
+
+.para {
+    height: 100px;
+    min-width: 100px;
+    max-width: 150px;
+
+}
+
+.box {
+    width: 500px;
+    background-color: yellow;
+    height: 150px;
+    border-radius: 100px;
+    border: 2px solid black;
+    object-position: bottom;
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: white;
+    box-sizing: border-box;
+    border-bottom-color: black;
+    box-shadow:8px;
+    padding: 8px;
+    position: fixed;
+    top:0;
+    left:0;
+}
+
+nav2{
+    height: 80px;
+    width: 80%;
+    background-color: white;
+    box-sizing: border-box;
+    border-bottom-color: black;
+    box-shadow: 8px;
+    padding: 8px;
+    position: ;
+    top: 0;
+    left: 0;
+}
+
+nav3{
+    height: 80px;
+    width: 100%;
+    background-color: white;
+    box-sizing: border-box;
+    border-bottom-color: black;
+    box-shadow: 8px;
+    padding: 8px;
+    object-position: bottom  ;
+    top: 50;
+    left: 50;
+}
+
+
+nav p{
+    color: green;
+    height: 20px;
+    position: absolute;
+    top: 20px;
+}
+
+.firstP{
+    left: 20px;
+}
+
+.secondP{
+    left: 100px;
+}
+
+.thirdP{
+    left: 200px;
+}
+p h1{
+    position:relative;
+}
+
+div{
+
+}
